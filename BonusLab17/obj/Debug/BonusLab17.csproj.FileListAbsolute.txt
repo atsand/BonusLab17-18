@@ -5,3 +5,10 @@ C:\Users\GC Student\Desktop\Grand Circus\BonusLab17\BonusLab17\bin\Debug\BonusLa
 C:\Users\GC Student\Desktop\Grand Circus\BonusLab17\BonusLab17\bin\Debug\BonusLab17.pdb
 C:\Users\GC Student\Desktop\Grand Circus\BonusLab17\BonusLab17\obj\Debug\BonusLab17.exe
 C:\Users\GC Student\Desktop\Grand Circus\BonusLab17\BonusLab17\obj\Debug\BonusLab17.pdb
+C:\Users\GOAT\Desktop\Grand Circus\BonusLab17-18\BonusLab17-18\BonusLab17\bin\Debug\BonusLab17.exe.config
+C:\Users\GOAT\Desktop\Grand Circus\BonusLab17-18\BonusLab17-18\BonusLab17\bin\Debug\BonusLab17.exe
+C:\Users\GOAT\Desktop\Grand Circus\BonusLab17-18\BonusLab17-18\BonusLab17\bin\Debug\BonusLab17.pdb
+C:\Users\GOAT\Desktop\Grand Circus\BonusLab17-18\BonusLab17-18\BonusLab17\obj\Debug\BonusLab17.csprojResolveAssemblyReference.cache
+C:\Users\GOAT\Desktop\Grand Circus\BonusLab17-18\BonusLab17-18\BonusLab17\obj\Debug\BonusLab17.csproj.CoreCompileInputs.cache
+C:\Users\GOAT\Desktop\Grand Circus\BonusLab17-18\BonusLab17-18\BonusLab17\obj\Debug\BonusLab17.exe
+C:\Users\GOAT\Desktop\Grand Circus\BonusLab17-18\BonusLab17-18\BonusLab17\obj\Debug\BonusLab17.pdb

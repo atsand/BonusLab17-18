@@ -33,7 +33,7 @@ namespace BonusLab17
             return string.Format("{0, -9}{1, -16}{2, -9}" + string.Format("{0, -16:C2}", this.Price), this.Make, this.Model, this.Year);
         }
 
-        //Methods used before learning get;set;
+        //Methods used before learning get;set; left these here for an idea of what I cut out.
        
         //public void SetMake(string make)
         //{
